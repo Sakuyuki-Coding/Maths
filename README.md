@@ -40,7 +40,7 @@ GPT 6 Luna
 
 The design and debug of the workflow is done by Sakuyuki, currently living in China in Senior 3. The laptop running the problems is also provided by Sakuyuki. We also appreciate other externals' support, mainly QQ: 1563438972's support on external AI resources and mathematical-relevant suggestions, etc.
 
-To be completely honest to what AI created the papers, etc. will not be altered and keep how the model writes. The Lean verification and paper making is done by another tasks separately from the main solving task.
+To be completely honest to what AI created the papers, etc. will not be altered and keep exactly what the model writes. The Lean verification and paper making is done by another tasks separately from the main solving task.
 
 
 
